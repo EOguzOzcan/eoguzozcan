@@ -32,6 +32,6 @@ I am a Frontend Developer from Turkey. ☕
 
 ### 🔥 &nbsp; My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=eoguzozcan&theme=tokyonight&border_radius=5.7)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=eoguzozcan&theme=tokyonight&border_radius=5.7&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eoguzozcan&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
